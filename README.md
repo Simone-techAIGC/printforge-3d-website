@@ -26,6 +26,11 @@
 - **流畅的滚动动画**：使用 Framer Motion 或自定义 hooks 实现元素淡入、数字滚动等微交互。
 
 ---
+## 📸 网站演示
+
+![PrintForge 官网演示](assets/demo.gif)
+
+---
 
 ## 🛠️ 技术栈
 
